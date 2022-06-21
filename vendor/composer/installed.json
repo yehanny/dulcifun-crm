@@ -265,6 +265,56 @@
             "install-path": null
         },
         {
+            "name": "mehdibo/codeigniter-recaptcha",
+            "version": "v1.1.1",
+            "version_normalized": "1.1.1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/mehdibo/Codeigniter-recaptcha.git",
+                "reference": "40102aaa81a4067570c42fedd304715a8fa4a5a7"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/mehdibo/Codeigniter-recaptcha/zipball/40102aaa81a4067570c42fedd304715a8fa4a5a7",
+                "reference": "40102aaa81a4067570c42fedd304715a8fa4a5a7",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.6"
+            },
+            "time": "2022-06-15T13:06:11+00:00",
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "classmap": [
+                    "libraries/Recaptcha.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Mehdi Bounya",
+                    "email": "contact.mehdi@pm.me",
+                    "homepage": "https://twitter.com/bounyamehdi",
+                    "role": "Developer"
+                }
+            ],
+            "description": "CodeIgniter library to use Google's reCAPTCHA V2",
+            "homepage": "https://github.com/mehdibo/Codeigniter-recaptcha",
+            "keywords": [
+                "codeigniter",
+                "recaptcha"
+            ],
+            "support": {
+                "issues": "https://github.com/mehdibo/Codeigniter-recaptcha/issues",
+                "source": "https://github.com/mehdibo/Codeigniter-recaptcha/tree/v1.1.1"
+            },
+            "install-path": "../mehdibo/codeigniter-recaptcha"
+        },
+        {
             "name": "mpdf/mpdf",
             "version": "v8.1.1",
             "version_normalized": "8.1.1.0",

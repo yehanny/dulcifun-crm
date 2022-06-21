@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "94fb3a4a88afb2ba185292536fd99471",
+    "content-hash": "c30576989b474ce43560bb620a1562b4",
     "packages": [
         {
             "name": "codeigniter/framework",
@@ -261,6 +261,53 @@
                 "source": "https://github.com/thephpleague/omnipay/tree/2.3.2"
             },
             "time": "2014-12-10T13:55:00+00:00"
+        },
+        {
+            "name": "mehdibo/codeigniter-recaptcha",
+            "version": "v1.1.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/mehdibo/Codeigniter-recaptcha.git",
+                "reference": "40102aaa81a4067570c42fedd304715a8fa4a5a7"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/mehdibo/Codeigniter-recaptcha/zipball/40102aaa81a4067570c42fedd304715a8fa4a5a7",
+                "reference": "40102aaa81a4067570c42fedd304715a8fa4a5a7",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.6"
+            },
+            "type": "library",
+            "autoload": {
+                "classmap": [
+                    "libraries/Recaptcha.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Mehdi Bounya",
+                    "email": "contact.mehdi@pm.me",
+                    "homepage": "https://twitter.com/bounyamehdi",
+                    "role": "Developer"
+                }
+            ],
+            "description": "CodeIgniter library to use Google's reCAPTCHA V2",
+            "homepage": "https://github.com/mehdibo/Codeigniter-recaptcha",
+            "keywords": [
+                "codeigniter",
+                "recaptcha"
+            ],
+            "support": {
+                "issues": "https://github.com/mehdibo/Codeigniter-recaptcha/issues",
+                "source": "https://github.com/mehdibo/Codeigniter-recaptcha/tree/v1.1.1"
+            },
+            "time": "2022-06-15T13:06:11+00:00"
         },
         {
             "name": "mpdf/mpdf",

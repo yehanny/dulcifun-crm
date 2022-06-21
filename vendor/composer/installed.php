@@ -178,6 +178,15 @@
             'reference' => 'e9e6d95a2e7c3641ba31c985334d82e39dbd6078',
             'dev_requirement' => false,
         ),
+        'mehdibo/codeigniter-recaptcha' => array(
+            'pretty_version' => 'v1.1.1',
+            'version' => '1.1.1.0',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../mehdibo/codeigniter-recaptcha',
+            'aliases' => array(),
+            'reference' => '40102aaa81a4067570c42fedd304715a8fa4a5a7',
+            'dev_requirement' => false,
+        ),
         'mpdf/mpdf' => array(
             'pretty_version' => 'v8.1.1',
             'version' => '8.1.1.0',

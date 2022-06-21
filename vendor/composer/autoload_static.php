@@ -14,24 +14,24 @@ class ComposerStaticInit8a930945a5c826fbaf3f528393aea1be
     );
 
     public static $prefixLengthsPsr4 = array (
-        's' =>
+        's' => 
         array (
             'setasign\\Fpdi\\' => 14,
         ),
-        'S' =>
+        'S' => 
         array (
             'Symfony\\Polyfill\\Mbstring\\' => 26,
             'Symfony\\Polyfill\\Ctype\\' => 23,
             'Symfony\\Component\\HttpFoundation\\' => 33,
             'Symfony\\Component\\EventDispatcher\\' => 34,
         ),
-        'P' =>
+        'P' => 
         array (
             'Psr\\Log\\' => 8,
             'Psr\\Http\\Message\\' => 17,
             'PHPMailer\\PHPMailer\\' => 20,
         ),
-        'O' =>
+        'O' => 
         array (
             'Omnipay\\WorldPay\\' => 17,
             'Omnipay\\TwoCheckout\\' => 20,
@@ -59,15 +59,15 @@ class ComposerStaticInit8a930945a5c826fbaf3f528393aea1be
             'Omnipay\\Buckaroo\\' => 17,
             'Omnipay\\AuthorizeNet\\' => 21,
         ),
-        'M' =>
+        'M' => 
         array (
             'Mpdf\\' => 5,
         ),
-        'H' =>
+        'H' => 
         array (
             'Http\\Message\\' => 13,
         ),
-        'D' =>
+        'D' => 
         array (
             'Dotenv\\' => 7,
             'DeepCopy\\' => 9,
@@ -75,171 +75,171 @@ class ComposerStaticInit8a930945a5c826fbaf3f528393aea1be
     );
 
     public static $prefixDirsPsr4 = array (
-        'setasign\\Fpdi\\' =>
+        'setasign\\Fpdi\\' => 
         array (
             0 => __DIR__ . '/..' . '/setasign/fpdi/src',
         ),
-        'Symfony\\Polyfill\\Mbstring\\' =>
+        'Symfony\\Polyfill\\Mbstring\\' => 
         array (
             0 => __DIR__ . '/..' . '/symfony/polyfill-mbstring',
         ),
-        'Symfony\\Polyfill\\Ctype\\' =>
+        'Symfony\\Polyfill\\Ctype\\' => 
         array (
             0 => __DIR__ . '/..' . '/symfony/polyfill-ctype',
         ),
-        'Symfony\\Component\\HttpFoundation\\' =>
+        'Symfony\\Component\\HttpFoundation\\' => 
         array (
             0 => __DIR__ . '/..' . '/symfony/http-foundation',
         ),
-        'Symfony\\Component\\EventDispatcher\\' =>
+        'Symfony\\Component\\EventDispatcher\\' => 
         array (
             0 => __DIR__ . '/..' . '/symfony/event-dispatcher',
         ),
-        'Psr\\Log\\' =>
+        'Psr\\Log\\' => 
         array (
             0 => __DIR__ . '/..' . '/psr/log/Psr/Log',
         ),
-        'Psr\\Http\\Message\\' =>
+        'Psr\\Http\\Message\\' => 
         array (
             0 => __DIR__ . '/..' . '/psr/http-message/src',
         ),
-        'PHPMailer\\PHPMailer\\' =>
+        'PHPMailer\\PHPMailer\\' => 
         array (
             0 => __DIR__ . '/..' . '/phpmailer/phpmailer/src',
         ),
-        'Omnipay\\WorldPay\\' =>
+        'Omnipay\\WorldPay\\' => 
         array (
             0 => __DIR__ . '/..' . '/omnipay/worldpay/src',
         ),
-        'Omnipay\\TwoCheckout\\' =>
+        'Omnipay\\TwoCheckout\\' => 
         array (
             0 => __DIR__ . '/..' . '/omnipay/2checkout/src',
         ),
-        'Omnipay\\TargetPay\\' =>
+        'Omnipay\\TargetPay\\' => 
         array (
             0 => __DIR__ . '/..' . '/omnipay/targetpay/src',
         ),
-        'Omnipay\\Stripe\\' =>
+        'Omnipay\\Stripe\\' => 
         array (
             0 => __DIR__ . '/..' . '/omnipay/stripe/src',
         ),
-        'Omnipay\\SecurePay\\' =>
+        'Omnipay\\SecurePay\\' => 
         array (
             0 => __DIR__ . '/..' . '/omnipay/securepay/src',
         ),
-        'Omnipay\\SagePay\\' =>
+        'Omnipay\\SagePay\\' => 
         array (
             0 => __DIR__ . '/..' . '/omnipay/sagepay/src',
         ),
-        'Omnipay\\Pin\\' =>
+        'Omnipay\\Pin\\' => 
         array (
             0 => __DIR__ . '/..' . '/omnipay/pin/src',
         ),
-        'Omnipay\\PaymentExpress\\' =>
+        'Omnipay\\PaymentExpress\\' => 
         array (
             0 => __DIR__ . '/..' . '/omnipay/paymentexpress/src',
         ),
-        'Omnipay\\Payflow\\' =>
+        'Omnipay\\Payflow\\' => 
         array (
             0 => __DIR__ . '/..' . '/omnipay/payflow/src',
         ),
-        'Omnipay\\PayPal\\' =>
+        'Omnipay\\PayPal\\' => 
         array (
             0 => __DIR__ . '/..' . '/omnipay/paypal/src',
         ),
-        'Omnipay\\PayFast\\' =>
+        'Omnipay\\PayFast\\' => 
         array (
             0 => __DIR__ . '/..' . '/omnipay/payfast/src',
         ),
-        'Omnipay\\Netaxept\\' =>
+        'Omnipay\\Netaxept\\' => 
         array (
             0 => __DIR__ . '/..' . '/omnipay/netaxept/src',
         ),
-        'Omnipay\\NetBanx\\' =>
+        'Omnipay\\NetBanx\\' => 
         array (
             0 => __DIR__ . '/..' . '/omnipay/netbanx/src',
         ),
-        'Omnipay\\MultiSafepay\\' =>
+        'Omnipay\\MultiSafepay\\' => 
         array (
             0 => __DIR__ . '/..' . '/omnipay/multisafepay/src',
         ),
-        'Omnipay\\Mollie\\' =>
+        'Omnipay\\Mollie\\' => 
         array (
             0 => __DIR__ . '/..' . '/omnipay/mollie/src',
         ),
-        'Omnipay\\Migs\\' =>
+        'Omnipay\\Migs\\' => 
         array (
             0 => __DIR__ . '/..' . '/omnipay/migs/src',
         ),
-        'Omnipay\\Manual\\' =>
+        'Omnipay\\Manual\\' => 
         array (
             0 => __DIR__ . '/..' . '/omnipay/manual/src',
         ),
-        'Omnipay\\GoCardless\\' =>
+        'Omnipay\\GoCardless\\' => 
         array (
             0 => __DIR__ . '/..' . '/omnipay/gocardless/src',
         ),
-        'Omnipay\\FirstData\\' =>
+        'Omnipay\\FirstData\\' => 
         array (
             0 => __DIR__ . '/..' . '/omnipay/firstdata/src',
         ),
-        'Omnipay\\Eway\\' =>
+        'Omnipay\\Eway\\' => 
         array (
             0 => __DIR__ . '/..' . '/omnipay/eway/src',
         ),
-        'Omnipay\\Dummy\\' =>
+        'Omnipay\\Dummy\\' => 
         array (
             0 => __DIR__ . '/..' . '/omnipay/dummy/src',
         ),
-        'Omnipay\\Coinbase\\' =>
+        'Omnipay\\Coinbase\\' => 
         array (
             0 => __DIR__ . '/..' . '/omnipay/coinbase/src',
         ),
-        'Omnipay\\CardSave\\' =>
+        'Omnipay\\CardSave\\' => 
         array (
             0 => __DIR__ . '/..' . '/omnipay/cardsave/src',
         ),
-        'Omnipay\\Buckaroo\\' =>
+        'Omnipay\\Buckaroo\\' => 
         array (
             0 => __DIR__ . '/..' . '/omnipay/buckaroo/src',
         ),
-        'Omnipay\\AuthorizeNet\\' =>
+        'Omnipay\\AuthorizeNet\\' => 
         array (
             0 => __DIR__ . '/..' . '/omnipay/authorizenet/src',
         ),
-        'Mpdf\\' =>
+        'Mpdf\\' => 
         array (
             0 => __DIR__ . '/..' . '/mpdf/mpdf/src',
         ),
-        'Http\\Message\\' =>
+        'Http\\Message\\' => 
         array (
             0 => __DIR__ . '/..' . '/php-http/message-factory/src',
         ),
-        'Dotenv\\' =>
+        'Dotenv\\' => 
         array (
             0 => __DIR__ . '/..' . '/vlucas/phpdotenv/src',
         ),
-        'DeepCopy\\' =>
+        'DeepCopy\\' => 
         array (
             0 => __DIR__ . '/..' . '/myclabs/deep-copy/src/DeepCopy',
         ),
     );
 
     public static $prefixesPsr0 = array (
-        'O' =>
+        'O' => 
         array (
-            'Omnipay\\Common\\' =>
+            'Omnipay\\Common\\' => 
             array (
                 0 => __DIR__ . '/..' . '/omnipay/common/src',
             ),
         ),
-        'G' =>
+        'G' => 
         array (
-            'Guzzle\\Tests' =>
+            'Guzzle\\Tests' => 
             array (
                 0 => __DIR__ . '/..' . '/guzzle/guzzle/tests',
             ),
-            'Guzzle' =>
+            'Guzzle' => 
             array (
                 0 => __DIR__ . '/..' . '/guzzle/guzzle/src',
             ),
@@ -250,6 +250,7 @@ class ComposerStaticInit8a930945a5c826fbaf3f528393aea1be
         'Composer\\InstalledVersions' => __DIR__ . '/..' . '/composer/InstalledVersions.php',
         'FPDF' => __DIR__ . '/..' . '/setasign/fpdf/fpdf.php',
         'Omnipay\\Omnipay' => __DIR__ . '/..' . '/omnipay/common/src/Omnipay/Omnipay.php',
+        'Recaptcha' => __DIR__ . '/..' . '/mehdibo/codeigniter-recaptcha/libraries/Recaptcha.php',
     );
 
     public static function getInitializer(ClassLoader $loader)

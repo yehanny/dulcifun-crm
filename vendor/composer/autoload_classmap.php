@@ -9,4 +9,5 @@ return array(
     'Composer\\InstalledVersions' => $vendorDir . '/composer/InstalledVersions.php',
     'FPDF' => $vendorDir . '/setasign/fpdf/fpdf.php',
     'Omnipay\\Omnipay' => $vendorDir . '/omnipay/common/src/Omnipay/Omnipay.php',
+    'Recaptcha' => $vendorDir . '/mehdibo/codeigniter-recaptcha/libraries/Recaptcha.php',
 );
