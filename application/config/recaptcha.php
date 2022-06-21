@@ -19,8 +19,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */
 $config['re_keys'] = array(
-	'site_key'		=> '6Lcc2oggAAAAAFQ7ge9T5Nr5josurF17hNKRur1T',
-	'secret_key'	=> '6Lcc2oggAAAAAJ6PY9i_HR1OuV6YaHe4Cl5a2H7E'
+	'site_key'		=> '',
+	'secret_key'	=> ''
 );
 
 /*
