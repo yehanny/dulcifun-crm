@@ -34,6 +34,13 @@
             ],
             "description": "The CodeIgniter framework",
             "homepage": "https://codeigniter.com",
+            "support": {
+                "forum": "http://forum.codeigniter.com/",
+                "issues": "https://github.com/bcit-ci/CodeIgniter/issues",
+                "slack": "https://codeigniterchat.slack.com",
+                "source": "https://github.com/bcit-ci/CodeIgniter",
+                "wiki": "https://github.com/bcit-ci/CodeIgniter/wiki"
+            },
             "install-path": "../codeigniter/framework"
         },
         {
@@ -132,6 +139,10 @@
                 "rest",
                 "web service"
             ],
+            "support": {
+                "issues": "https://github.com/guzzle/guzzle3/issues",
+                "source": "https://github.com/guzzle/guzzle3/tree/master"
+            },
             "abandoned": "guzzlehttp/guzzle",
             "install-path": "../guzzle/guzzle"
         },
@@ -247,6 +258,10 @@
                 "twocheckout",
                 "worldpay"
             ],
+            "support": {
+                "issues": "https://github.com/thephpleague/omnipay/issues",
+                "source": "https://github.com/thephpleague/omnipay/tree/2.3.2"
+            },
             "install-path": null
         },
         {
@@ -451,6 +466,10 @@
                 "payment",
                 "twocheckout"
             ],
+            "support": {
+                "issues": "https://github.com/thephpleague/omnipay-2checkout/issues",
+                "source": "https://github.com/thephpleague/omnipay-2checkout/tree/master"
+            },
             "install-path": "../omnipay/2checkout"
         },
         {
@@ -513,6 +532,10 @@
                 "pay",
                 "payment"
             ],
+            "support": {
+                "issues": "https://github.com/thephpleague/omnipay-authorizenet/issues",
+                "source": "https://github.com/thephpleague/omnipay-authorizenet/tree/master"
+            },
             "install-path": "../omnipay/authorizenet"
         },
         {
@@ -573,6 +596,10 @@
                 "pay",
                 "payment"
             ],
+            "support": {
+                "issues": "https://github.com/thephpleague/omnipay-buckaroo/issues",
+                "source": "https://github.com/thephpleague/omnipay-buckaroo/tree/master"
+            },
             "install-path": "../omnipay/buckaroo"
         },
         {
@@ -634,6 +661,10 @@
                 "pay",
                 "payment"
             ],
+            "support": {
+                "issues": "https://github.com/thephpleague/omnipay-cardsave/issues",
+                "source": "https://github.com/thephpleague/omnipay-cardsave/tree/master"
+            },
             "install-path": "../omnipay/cardsave"
         },
         {
@@ -694,6 +725,10 @@
                 "pay",
                 "payment"
             ],
+            "support": {
+                "issues": "https://github.com/thephpleague/omnipay-coinbase/issues",
+                "source": "https://github.com/thephpleague/omnipay-coinbase/tree/master"
+            },
             "install-path": "../omnipay/coinbase"
         },
         {
@@ -813,6 +848,10 @@
                 "payment",
                 "purchase"
             ],
+            "support": {
+                "issues": "https://github.com/thephpleague/omnipay-common/issues",
+                "source": "https://github.com/thephpleague/omnipay-common/tree/master"
+            },
             "install-path": "../omnipay/common"
         },
         {
@@ -873,6 +912,10 @@
                 "pay",
                 "payment"
             ],
+            "support": {
+                "issues": "https://github.com/thephpleague/omnipay-dummy/issues",
+                "source": "https://github.com/thephpleague/omnipay-dummy/tree/v2.2.0"
+            },
             "install-path": "../omnipay/dummy"
         },
         {
@@ -933,6 +976,10 @@
                 "pay",
                 "payment"
             ],
+            "support": {
+                "issues": "https://github.com/thephpleague/omnipay-eway/issues",
+                "source": "https://github.com/thephpleague/omnipay-eway/tree/master"
+            },
             "install-path": "../omnipay/eway"
         },
         {
@@ -994,6 +1041,10 @@
                 "pay",
                 "payment"
             ],
+            "support": {
+                "issues": "https://github.com/thephpleague/omnipay-firstdata/issues",
+                "source": "https://github.com/thephpleague/omnipay-firstdata/tree/master"
+            },
             "install-path": "../omnipay/firstdata"
         },
         {
@@ -1055,6 +1106,10 @@
                 "pay",
                 "payment"
             ],
+            "support": {
+                "issues": "https://github.com/thephpleague/omnipay-gocardless/issues",
+                "source": "https://github.com/thephpleague/omnipay-gocardless/tree/master"
+            },
             "install-path": "../omnipay/gocardless"
         },
         {
@@ -1115,6 +1170,10 @@
                 "pay",
                 "payment"
             ],
+            "support": {
+                "issues": "https://github.com/thephpleague/omnipay-manual/issues",
+                "source": "https://github.com/thephpleague/omnipay-manual/tree/master"
+            },
             "install-path": "../omnipay/manual"
         },
         {
@@ -1176,6 +1235,10 @@
                 "pay",
                 "payment"
             ],
+            "support": {
+                "issues": "https://github.com/thephpleague/omnipay-migs/issues",
+                "source": "https://github.com/thephpleague/omnipay-migs/tree/master"
+            },
             "install-path": "../omnipay/migs"
         },
         {
@@ -1236,6 +1299,10 @@
                 "pay",
                 "payment"
             ],
+            "support": {
+                "issues": "https://github.com/thephpleague/omnipay-mollie/issues",
+                "source": "https://github.com/thephpleague/omnipay-mollie/tree/master"
+            },
             "install-path": "../omnipay/mollie"
         },
         {
@@ -1297,6 +1364,10 @@
                 "pay",
                 "payment"
             ],
+            "support": {
+                "issues": "https://github.com/thephpleague/omnipay-multisafepay/issues",
+                "source": "https://github.com/thephpleague/omnipay-multisafepay/tree/master"
+            },
             "install-path": "../omnipay/multisafepay"
         },
         {
@@ -1357,6 +1428,10 @@
                 "pay",
                 "payment"
             ],
+            "support": {
+                "issues": "https://github.com/thephpleague/omnipay-netaxept/issues",
+                "source": "https://github.com/thephpleague/omnipay-netaxept/tree/master"
+            },
             "install-path": "../omnipay/netaxept"
         },
         {
@@ -1417,6 +1492,10 @@
                 "pay",
                 "payment"
             ],
+            "support": {
+                "issues": "https://github.com/thephpleague/omnipay-netbanx/issues",
+                "source": "https://github.com/thephpleague/omnipay-netbanx/tree/master"
+            },
             "install-path": "../omnipay/netbanx"
         },
         {
@@ -1477,6 +1556,10 @@
                 "payfast",
                 "payment"
             ],
+            "support": {
+                "issues": "https://github.com/thephpleague/omnipay-payfast/issues",
+                "source": "https://github.com/thephpleague/omnipay-payfast/tree/master"
+            },
             "install-path": "../omnipay/payfast"
         },
         {
@@ -1537,6 +1620,10 @@
                 "payflow",
                 "payment"
             ],
+            "support": {
+                "issues": "https://github.com/thephpleague/omnipay-payflow/issues",
+                "source": "https://github.com/thephpleague/omnipay-payflow/tree/master"
+            },
             "install-path": "../omnipay/payflow"
         },
         {
@@ -1668,6 +1755,10 @@
                 "paypal",
                 "purchase"
             ],
+            "support": {
+                "issues": "https://github.com/thephpleague/omnipay-paypal/issues",
+                "source": "https://github.com/thephpleague/omnipay-paypal/tree/master"
+            },
             "install-path": "../omnipay/paypal"
         },
         {
@@ -1728,6 +1819,10 @@
                 "payment",
                 "pin"
             ],
+            "support": {
+                "issues": "https://github.com/thephpleague/omnipay-pin/issues",
+                "source": "https://github.com/thephpleague/omnipay-pin/tree/master"
+            },
             "install-path": "../omnipay/pin"
         },
         {
@@ -1790,6 +1885,10 @@
                 "sage pay",
                 "sagepay"
             ],
+            "support": {
+                "issues": "https://github.com/thephpleague/omnipay-sagepay/issues",
+                "source": "https://github.com/thephpleague/omnipay-sagepay/tree/master"
+            },
             "install-path": "../omnipay/sagepay"
         },
         {
@@ -1850,6 +1949,10 @@
                 "payment",
                 "securepay"
             ],
+            "support": {
+                "issues": "https://github.com/thephpleague/omnipay-securepay/issues",
+                "source": "https://github.com/thephpleague/omnipay-securepay/tree/2.2.0"
+            },
             "install-path": "../omnipay/securepay"
         },
         {
@@ -1910,6 +2013,10 @@
                 "payment",
                 "stripe"
             ],
+            "support": {
+                "issues": "https://github.com/thephpleague/omnipay-stripe/issues",
+                "source": "https://github.com/thephpleague/omnipay-stripe/tree/master"
+            },
             "install-path": "../omnipay/stripe"
         },
         {
@@ -1970,6 +2077,10 @@
                 "payment",
                 "targetpay"
             ],
+            "support": {
+                "issues": "https://github.com/thephpleague/omnipay-targetpay/issues",
+                "source": "https://github.com/thephpleague/omnipay-targetpay/tree/master"
+            },
             "install-path": "../omnipay/targetpay"
         },
         {
@@ -2030,6 +2141,10 @@
                 "payment",
                 "worldpay"
             ],
+            "support": {
+                "issues": "https://github.com/thephpleague/omnipay-worldpay/issues",
+                "source": "https://github.com/thephpleague/omnipay-worldpay/tree/master"
+            },
             "install-path": "../omnipay/worldpay"
         },
         {
@@ -2521,6 +2636,9 @@
             ],
             "description": "Symfony EventDispatcher Component",
             "homepage": "https://symfony.com",
+            "support": {
+                "source": "https://github.com/symfony/event-dispatcher/tree/v2.8.50"
+            },
             "install-path": "../symfony/event-dispatcher"
         },
         {
@@ -2579,6 +2697,9 @@
             ],
             "description": "Symfony HttpFoundation Component",
             "homepage": "https://symfony.com",
+            "support": {
+                "source": "https://github.com/symfony/http-foundation/tree/2.8"
+            },
             "install-path": "../symfony/http-foundation"
         },
         {
